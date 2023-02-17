@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachel Rice</h1>
+<h1 align="center">Hi, I'm Rachel Rice</h1>
 <h3 align="center">A passionate frontend developer from Portland, OR</h3>
 
 - 📫 How to reach me **rachelricedev@gmail.com**
