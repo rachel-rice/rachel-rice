@@ -18,7 +18,7 @@
   </a> -->
 </p>
 
-A full-stack software engineer with a passion for creating efficient solutions to complex problems.
+A full-stack software engineer with a passion for finding solutions to complex problems.
 
 
 
