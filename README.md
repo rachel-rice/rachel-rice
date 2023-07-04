@@ -1,9 +1,9 @@
 <img src="images/banner.png" width="100%">
 
 <p align="center">
-  <!--- <a href="#" target="_blank">
+  <a href="https://rachel-rice.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
