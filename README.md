@@ -1,7 +1,7 @@
 <img src="images/banner.png" width="100%">
 
 <p align="center">
-  <a href="https://rachel-rice.netlify.app/" target="_blank">
+  <a href="https://rachelrice.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
@@ -52,7 +52,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
 
 
 <p align="center">
-  <a href="https://rachel-rice.netlify.app/" target="_blank">
+  <a href="https://rachelrice.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
