@@ -133,6 +133,28 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
 ---
 
 
+<h1 align="center">Languages & Tools</h1>
+
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=lightblue&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=lightyellow&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=lightblue&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=lightyellow&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=lightblue&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=lightyellow&style=plastic&logo=node.js"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=lightblue&style=plastic&logo=react"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=lightyellow&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=lightblue&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=lightyellow&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=lightblue&style=plastic&logo=git"/>
+    
+</p>
+
+
+---
+
+
 <h1 align="center">Connect</h1>
 
 
