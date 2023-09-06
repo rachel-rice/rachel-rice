@@ -27,6 +27,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
 
 ---
 
+
 <h1 align="center">Languages & Tools</h1>
 
 
@@ -41,6 +42,92 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
     
 </p>
 
+
+---
+
+
+<h1 align="center">Projects</h1>
+<table bordercolor="white">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">The Brew Review</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/brew-review.gif" width="100%" alt="Beer Review App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rachel-rice/beer-reviews" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <!-- <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><strong>Javascript, Materialize, Handlebars, Node.js, & Express.js</strong> - Platform to write and share reviews of your favorie beer! Read what others think about your favorite beer!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PDX Astronomers</h3>
+        <br />
+      <a target="_blank" href="https://pdxastronomers.netlify.app/">
+            <img src="images/pdx-astronomers.gif" width="100%"  alt="PDX Astronomers"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://pdxastronomers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Rachel Rice</h3>
+      <br />
+        <a target="_blank" href="https://rachelrice.netlify.app/">
+          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+        
+  <a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://rachelrice.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Arnold's Fish Market</h3>
+        <br />
+        <a target="_blank" href="https://arnolds-fish-market.netlify.app">
+          <img src="images/fish-market.gif" width="100%" alt="Arnolds Fish Market"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rachel-rice/fish-market" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://arnolds-fish-market.netlify.app" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Static informational website for Arnold's Fish Market, a local restaurant and wholesaler of seafood.</p>
+    </td>
+  </tr>
+</table>
 
 
 ---
