@@ -81,7 +81,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
       <br />
         <p align="center">
         
-  <a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
+  <a href="https://github.com/rachel-rice/rachel-rice-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://rachelrice.netlify.app/" target="_blank">
