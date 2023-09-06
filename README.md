@@ -34,8 +34,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=green&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=yellow&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=green&style=plastic&logo=javascript"/>
-    <!---
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=yellow&style=plastic&logo=react"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=yellow&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=green&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=yellow&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=yellow&style=plastic&logo=git"/>
