@@ -67,7 +67,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
   </a>
   </a>
       </p>
-        <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
+        <p><strong>HTML, CSS3, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
     </td>
   </tr>
   
