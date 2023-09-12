@@ -67,7 +67,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
   </a>
   </a>
       </p>
-        <p><strong>HTML, CSS3, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
     </td>
   </tr>
   
@@ -80,7 +80,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
         </a>
       <br />
         <p align="center">
-        
+
   <a href="https://github.com/rachel-rice/rachel-rice-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -91,26 +91,25 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Arnold's Fish Market</h3>
+      <h3 align="center">Lists</h3>
         <br />
-        <a target="_blank" href="https://arnolds-fish-market.netlify.app">
-          <img src="images/fish-market.gif" width="100%" alt="Arnolds Fish Market"/>
+        <a target="_blank" href="#">
+          <img src="images/lists.gif" width="100%" alt="Lists App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/rachel-rice/fish-market" target="_blank">
+  <a href="https://github.com/rachel-rice/lists" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://arnolds-fish-market.netlify.app" target="_blank">
+  <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Static informational website for Arnold's Fish Market, a local restaurant and wholesaler of seafood.</p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js,Express & Bootstrap</strong> - App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
     </td>
   </tr>
 </table>
-
 
 ---
 
