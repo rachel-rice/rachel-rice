@@ -88,7 +88,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Lists</h3>
@@ -106,7 +106,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Node.js,Express & Bootstrap</strong> - App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
+        <p><strong>HTML/EJS, CSS3, Javascript, Node.js, Express & Bootstrap</strong> - App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
     </td>
   </tr>
 </table>
