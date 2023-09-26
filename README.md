@@ -51,23 +51,23 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
         <p><strong>Javascript, Materialize, Handlebars, Node.js, & Express.js</strong> - Platform to write and share reviews of your favorie beer! Read what others think about your favorite beer!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">PDX Astronomers</h3>
+      <h3 align="center">Bark Book</h3>
         <br />
-      <a target="_blank" href="https://pdxastronomers.netlify.app/">
-            <img src="images/pdx-astronomers.gif" width="100%"  alt="PDX Astronomers"/>
-        </a>
+<!--       <a target="_blank" href="https://pdxastronomers.netlify.app/"> -->
+            <img src="images/bark-book.gif" width="100%"  alt="Bark Book App"/>
+<!--         </a> -->
         <br />
         <p align="center">
           
-  <a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
+  <a href="https://github.com/rachel-rice/bark-book" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://pdxastronomers.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
-  </a>
+<!--   <a href="https://pdxastronomers.netlify.app/" target="_blank"> -->
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/> -->
+<!--   </a> -->
   </a>
       </p>
-        <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
+        <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full Stack social network app for your pet! Create posts by uploading photos of your pet, like and comment on users' posts.</p>
     </td>
   </tr>
   
@@ -107,7 +107,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
+        <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full Stack App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
     </td>
   </tr>
 </table>
