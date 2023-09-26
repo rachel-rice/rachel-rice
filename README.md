@@ -73,22 +73,23 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Rachel Rice</h3>
+      <h3 align="center">PDX Astronomers</h3>
       <br />
-        <a target="_blank" href="https://rachelrice.netlify.app/">
-          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
+         <a target="_blank" href="https://pdxastronomers.netlify.app/">
+            <img src="images/pdx-astronomers.gif" width="100%"  alt="PDX Astronomers"/>
         </a>
       <br />
         <p align="center">
 
-  <a href="https://github.com/rachel-rice/rachel-rice-portfolio" target="_blank">
+<a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://rachelrice.netlify.app/" target="_blank">
+  <a href="https://pdxastronomers.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a>
+  </a>
       </p>
-        <p><strong>HTML, CSS, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Lists</h3>
