@@ -48,7 +48,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a> -->
       </p>
-        <p><strong>Javascript, Materialize, Handlebars, Node.js, & Express.js</strong> - Platform to write and share reviews of your favorie beer! Read what others think about your favorite beer!</p>
+        <p><strong>Javascript, Materialize, Handlebars, Node.js, & Express.js</strong> - A Full stack web application. Write and share reviews of your favorie beer! Read what others think about your favorite beer!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Bark Book</h3>
@@ -67,7 +67,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
 <!--   </a> -->
   </a>
       </p>
-        <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full Stack social network app for your pet! Create posts by uploading photos of your pet, like and comment on users' posts.</p>
+        <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full stack web application. A social network for your pet! Create posts by uploading photos of your pet, like and comment on users' posts.</p>
     </td>
   </tr>
   
