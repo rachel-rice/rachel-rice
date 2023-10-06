@@ -151,10 +151,10 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
   <a href="https://twitter.com/RachelPDXDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <!--- <a href="#" target="_blank">
+  <a href="https://wellfound.com/u/rachelrice" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=blue&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
