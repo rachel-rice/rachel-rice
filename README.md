@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/RachelPDXDev" target="_blank">
+<!--   <a href="https://twitter.com/RachelPDXDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+  </a> -->
   <a href="https://wellfound.com/u/rachelrice" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=blue&style=plastic&logo=angellist&logo-color=white"/>
   </a>
@@ -148,9 +148,9 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/RachelPDXDev" target="_blank">
+<!--   <a href="https://twitter.com/RachelPDXDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
+  </a> -->
   <a href="https://wellfound.com/u/rachelrice" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=blue&style=plastic&logo=angellist&logo-color=white"/>
   </a>
