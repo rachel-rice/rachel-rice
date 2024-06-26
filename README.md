@@ -91,7 +91,7 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
       </p>
         <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Lists</h3>
         <br />
         <a target="_blank" href="#">
@@ -102,13 +102,13 @@ Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) 
           
   <a href="https://github.com/rachel-rice/lists" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
-  </a>
+  </a> -->
 <!--   <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a> -->
-      </p>
+<!--       </p>
         <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full Stack App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
