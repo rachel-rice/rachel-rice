@@ -22,7 +22,7 @@ Hi, I'm Rachel Rice. A full stack software engineer with a passion for finding s
 
 
 
-Feel free to email at [RachelRiceDev@gmail.com](mailto:rachelricedev@gmail.com) or visit [my website](https://rachelrice.netlify.app/) for more information! 
+Feel free to email at [rachelricedev@gmail.com](mailto:rachelricedev@gmail.com) or visit [my website](https://rachelrice.netlify.app/) for more information! 
 
 
 ---
