@@ -18,7 +18,7 @@
   </a> -->
 </p>
 
-Hi, I'm Rachel Rice. A full stack software engineer with a passion for finding solutions to complex problems.
+Hi, I'm Rachel Rice - a full stack software engineer!
 
 
 
