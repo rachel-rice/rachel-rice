@@ -131,7 +131,7 @@ Feel free to email at [rachelricedev@gmail.com](mailto:rachelricedev@gmail.com) 
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
-  </a> -->
+  </a>
   <a href="https://wellfound.com/u/rachelrice" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=blue&style=plastic&logo=angellist&logo-color=white"/>
   </a>
