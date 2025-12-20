@@ -7,15 +7,9 @@
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-<!--   <a href="https://twitter.com/RachelPDXDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
-  </a> -->
   <a href="https://wellfound.com/u/rachelrice" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=blue&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-<!--   <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=blue&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
 </p>
 
 Hi, I'm Rachel Rice - a full stack software engineer!
@@ -39,34 +33,23 @@ Feel free to email at [rachelricedev@gmail.com](mailto:rachelricedev@gmail.com) 
             <img src="images/brew-review.gif" width="100%" alt="Beer Review App"/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="https://github.com/rachel-rice/beer-reviews" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <!-- <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
-      </p>
-        <p><strong>Javascript, Materialize, Handlebars, Node.js, & Express.js</strong> - A Full stack web application. Write and share reviews of your favorie beer! Read what others think about your favorite beer!</p>
+        <p align="center">     
+        <a href="https://github.com/rachel-rice/beer-reviews" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        </p>
+        <p><strong>Javascript, Materialize, Handlebars, Node.js, & Express.js</strong> - A Full stack web application. Write and share reviews of your favorie beer! Read what others think about         your favorite beer!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Bark Book</h3>
         <br />
-<!--       <a target="_blank" href="https://pdxastronomers.netlify.app/"> -->
             <img src="images/bark-book.gif" width="100%"  alt="Bark Book App"/>
-<!--         </a> -->
         <br />
         <p align="center">
-          
-  <a href="https://github.com/rachel-rice/bark-book" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
-  </a>
-<!--   <a href="https://pdxastronomers.netlify.app/" target="_blank"> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/> -->
-<!--   </a> -->
-  </a>
-      </p>
+        <a href="https://github.com/rachel-rice/bark-book" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        </p>
         <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full stack web application. A social network for your pet! Create posts by uploading photos of your pet, like and comment on users' posts.</p>
     </td>
   </tr>
@@ -80,36 +63,35 @@ Feel free to email at [rachelricedev@gmail.com](mailto:rachelricedev@gmail.com) 
         </a>
       <br />
         <p align="center">
-
-<a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://pdxastronomers.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  </a>
-      </p>
+        <a href="https://github.com/rachel-rice/pdx-astronomers" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://pdxastronomers.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+        </a>
+        </p>
         <p><strong>HTML, CSS, & Javascript</strong> - PDX Astronomers present the NASA Astronomy Picture of the day. Get todays picture or go back through the years to look at previous pictures of the day!</p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Lists</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Rachel Rice DevWorks</h3>
         <br />
-        <a target="_blank" href="#">
-          <img src="images/lists.gif" width="100%" alt="Lists App"/>
+        <a target="_blank" href="https://rachelrice.netlify.app/#">
+          <img src="images/portfolio.gif" width="100%" alt="Portfolio Site"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/rachel-rice/lists" target="_blank">
+  <a href="https://github.com/rachel-rice/rachel-rice-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=green&style=plastic&logo=github&logo-color=white"/>
-  </a> -->
-<!--   <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
-<!--       </p>
-        <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full Stack App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
-    </td> -->
+  </a> 
+  <a href="http://rachelrice.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  </p>
+      <p><strong>HTML/EJS, CSS, Javascript, Node.js, Express & Bootstrap</strong> - Full Stack App to create lists. Users sign up/sign in to create their lists. Items can be marked as done and deleted.</p>
+    </td>
   </tr>
+  
 </table>
 
 ---
@@ -148,13 +130,12 @@ Feel free to email at [rachelricedev@gmail.com](mailto:rachelricedev@gmail.com) 
   <a href="https://www.linkedin.com/in/rachelricedev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-<!--   <a href="https://twitter.com/RachelPDXDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=plastic&logo=twitter&logo-color=white"/>
   </a> -->
   <a href="https://wellfound.com/u/rachelrice" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=blue&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-<!--   <a href="#" target="_blank">
+<!--  <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=blue&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
